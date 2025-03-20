@@ -1,9 +1,9 @@
 {
-    "$schema": "https://getcomposer.org/schema.json",
-    "name": "laravel/laravel",
-    "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
-    "keywords": ["laravel", "framework"],
+    "name": "lavalite/bixo",
+    "description": "Bixo - The Laravel CRM.",
+    "keywords": [
+        "framework", "laravel", "lavalite", "CMS", "CRM", "ERP"
+    ],
     "license": "MIT",
     "require": {
         "php": "*",
