@@ -41,11 +41,11 @@
     "repositories": [
         {
             "type": "path",
-            "url": "packages/lavalite/*"
+            "url": "packages/framework/*"
         },
         {
             "type": "path",
-            "url": "packages/litecms/*"
+            "url": "packages/bixo/*"
         }
     ],
     "scripts": {
